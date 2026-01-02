@@ -34,3 +34,8 @@ Environment variables
 MacOS
 
 .DS_Store
+.env
+token.json
+credentials.json
+venv/
+__pycache__/
